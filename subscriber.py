@@ -28,13 +28,10 @@ client.loop_start()
 
 # this try-finally block ensures that whenever we terminate the program earlier by hitting ctrl+c, it still gracefully exits
 try:
-    i = 0
-    while i < 15 and client.failed_connect == False:
+    while not client.failed_connect:
         time.sleep(1)
-        i = i + 1
-    if client.failed_connect == True:
-        print('Connection failed, exiting...')
-
+except KeyboardInterrupt:
+    print("Interrupted by user. Exiting...")
 finally:
     client.disconnect()
     client.loop_stop()
