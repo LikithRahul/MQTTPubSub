@@ -1,0 +1,42 @@
+1732173832: mosquitto version 2.0.20 starting
+1732173832: Config loaded from /mosquitto/config/mosquitto.conf.
+1732173832: Error: Unable to open pwfile "/mosquitto/passwd_file".
+1732173832: Error opening password file "/mosquitto/passwd_file".
+1732174121: mosquitto version 2.0.20 starting
+1732174121: Config loaded from /mosquitto/config/mosquitto.conf.
+1732174121: Opening ipv4 listen socket on port 1883.
+1732174121: Opening websockets listen socket on port 9001.
+1732174121: mosquitto version 2.0.20 running
+1732174656: mosquitto version 2.0.20 terminating
+1732174656: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732174656: mosquitto version 2.0.20 starting
+1732174656: Config loaded from /mosquitto/config/mosquitto.conf.
+1732174656: Opening ipv4 listen socket on port 1883.
+1732174656: Opening websockets listen socket on port 9001.
+1732174656: mosquitto version 2.0.20 running
+1732174762: mosquitto version 2.0.20 terminating
+1732174762: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1732174765: mosquitto version 2.0.20 starting
+1732174765: Config loaded from /mosquitto/config/mosquitto.conf.
+1732174765: Opening ipv4 listen socket on port 1883.
+1732174765: Opening websockets listen socket on port 9001.
+1732174765: mosquitto version 2.0.20 running
+1732175472: New connection from 172.19.0.1:64142 on port 1883.
+1732175472: New client connected from 172.19.0.1:64142 as auto-111C8FDF-8F62-C541-6CC4-CD7DA5E6EFC1 (p2, c1, k60, u'likith').
+1732175482: Client auto-111C8FDF-8F62-C541-6CC4-CD7DA5E6EFC1 disconnected.
+1732175559: New connection from 172.19.0.1:62766 on port 1883.
+1732175559: New client connected from 172.19.0.1:62766 as auto-54B3F1E1-A3CB-CBFB-B00B-6ADFC6B8AE89 (p2, c1, k60, u'likith').
+1732175568: New connection from 172.19.0.1:59474 on port 1883.
+1732175568: New client connected from 172.19.0.1:59474 as auto-9B5EF77A-E5DE-0073-09D5-24F601C225AB (p2, c1, k60, u'likith').
+1732175568: auto-9B5EF77A-E5DE-0073-09D5-24F601C225AB 0 Test
+1732175569: Client auto-54B3F1E1-A3CB-CBFB-B00B-6ADFC6B8AE89 disconnected.
+1732175583: Client auto-9B5EF77A-E5DE-0073-09D5-24F601C225AB disconnected.
+1732175605: New connection from 172.19.0.1:65268 on port 1883.
+1732175605: New client connected from 172.19.0.1:65268 as auto-8F2815B0-90CB-D848-53C2-2C2FDB6363F1 (p2, c1, k60, u'likith').
+1732175605: auto-8F2815B0-90CB-D848-53C2-2C2FDB6363F1 0 Test
+1732175607: New connection from 172.19.0.1:65278 on port 1883.
+1732175607: New client connected from 172.19.0.1:65278 as auto-09DB7342-C2B3-5435-551F-DD80870C2F3F (p2, c1, k60, u'likith').
+1732175617: Client auto-09DB7342-C2B3-5435-551F-DD80870C2F3F disconnected.
+1732175620: Client auto-8F2815B0-90CB-D848-53C2-2C2FDB6363F1 disconnected.
+1732175630: mosquitto version 2.0.20 terminating
+1732175630: Saving in-memory database to /mosquitto/data//mosquitto.db.
